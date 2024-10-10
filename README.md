@@ -1,4 +1,4 @@
-<h1>AI: Interactive Study Buddy/h1>
+<h1>AI: Interactive Study Buddy</h1>
 
 <h2>Description</h2>
 I was a part of an intensive bootcamp experience for learning the CompTIA A+ objectives in order to get certified.  I created a study utility for both myself and the other members of the bootcamp to use to help prepare for the Core 1 and Core 2 Exams.  The goal was to ensure that the user would not only be able to see where they were struggling, but get explanations as to why the right answer is the right answer so that they would learn as they were utilizing the tool.
